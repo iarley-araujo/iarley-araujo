@@ -43,20 +43,50 @@ Estudante de Engenharia da Computação na Fundação Santo André (FSA) e Técn
 <h3 align="center">📊 Status e Conhecimentos</h3>
 
 <p align="center">
-  <i>Gráfico de proficiência nas tecnologias que utilizo:</i>
+  <i>Nível de proficiência nas tecnologias que utilizo:</i>
 </p>
 
 <div align="center">
-  <pre>
-🌐 PHP        ███████████████████████░░░░░░░░░░░  70%
-🌐 JavaScript ███████████████████████░░░░░░░░░░░  70%
-🗄️ SQL        ████████████████████░░░░░░░░░░░░░  60%
-☕ Java       █████████████████░░░░░░░░░░░░░░░░  50%
-🐍 Python     ████████░░░░░░░░░░░░░░░░░░░░░░░░░░  25%
-🎯 C#         █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  15%
-📱 Dart       █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  15%
-  </pre>
+  <table>
+    <tr>
+      <td align="center" width="150"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></td>
+      <td align="left" width="220">🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛</td>
+      <td align="right" width="50"><b>70%</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></td>
+      <td align="left">🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛</td>
+      <td align="right"><b>70%</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></td>
+      <td align="left">🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛</td>
+      <td align="right"><b>60%</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></td>
+      <td align="left">🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛</td>
+      <td align="right"><b>50%</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
+      <td align="left">🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛</td>
+      <td align="right"><b>25%</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></td>
+      <td align="left">🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
+      <td align="right"><b>15%</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></td>
+      <td align="left">🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
+      <td align="right"><b>15%</b></td>
+    </tr>
+  </table>
 </div>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/iarley-araujo">
